@@ -1,3 +1,5 @@
+# TopAPI
+
 ## Installation
 
 ```bash
@@ -29,3 +31,12 @@ $ npm run test:e2e
 # test coverage
 $ npm run test:cov
 ```
+
+## Dotenv constants
+
+- MONGO_LOGIN
+- MONGO_PASSWORD
+- MONGO_HOST
+- MONGO_PORT
+- MONTO_AUTH_DB
+- JWT_SECRET
